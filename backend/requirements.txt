@@ -1,0 +1,7 @@
+flask
+python-dotenv
+pydantic[dotenv]
+faster-whisper
+torch
+ffmpeg-python
+werkzeug
